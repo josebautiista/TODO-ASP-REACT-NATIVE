@@ -1,0 +1,39 @@
+# ASP.NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.ide
+*.db
+*.pdb
+*.cache
+*.log
+*.vs/
+.vscode/
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+*.lock
+android/.gradle/
+android/app/build/
+android/app/src/main/res/drawable-*/*.png
+android/app/src/main/res/drawable-*/ic_launcher.xml
+android/app/src/main/res/mipmap-*/ic_launcher.xml
+android/app/src/main/res/mipmap-*/ic_launcher_round.xml
+ios/Pods/
+ios/build/
+ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+ios/*.xcworkspace/
+ios/*.xcuserdata/
+*.swp
+*.DS_Store
+
+# Expo
+.expo/
+.expo-shared/
